@@ -1,0 +1,17 @@
+node_modules/
+.vercel/
+.output/
+.nitro/
+dist/
+*.log
+.env
+.env.*
+!.env.example
+screenshots/
+artifacts/
+.grok/
+.project_id
+.node_modules.lock
+AGENTS.md
+.DS_Store
+*.tsbuildinfo
